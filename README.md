@@ -1,2 +1,2 @@
-- <b>osTicket (Help Desk Ticketing System)</b>
-- Establish SSH connection between Azure VM's
+-  <b>Microsoft Azure VM</b>
+- Establish SSH connection between Azure Virtual Machine
