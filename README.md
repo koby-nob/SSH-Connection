@@ -13,6 +13,8 @@
   
 - Ubuntu Server 20.04 LTS Linux
 
+ ![VM2_Admin](https://github.com/koby-nob/SSH-Connection/assets/166937258/871eec5d-5c09-49e7-bb10-a9ca1515eeba)
+
 <h2>Installation Steps</h2>
 
 <p>
