@@ -23,7 +23,7 @@
 <p>
       
   
-      - Resource Group created (RG-Lab 5 for the purpose of this project)
+      - Resource Group created (RG-Lab  for the purpose of this project)
       - Select the virtual Machine(VM1) tab and create a the first VM for Linux server: Ubuntu Server. 
 
 <p>
