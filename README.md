@@ -1,5 +1,7 @@
 -  <b>Microsoft Azure VM</b>
 - Establish SSH connection between Microsoft Azure Virtual Machines
+
+  <h2>Description</h2
 - This project outlines steps and process for establishing SSH connections between two virtual Machines.
 
 <h2>Environments and Technologies Used</h2>
